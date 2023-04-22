@@ -53,6 +53,9 @@ python train.py -c configs/ljs_base.json -m ljs_base
 python train_ms.py -c configs/vctk_base.json -m vctk_base
 ```
 
+# KSS
+python train.py -c configs/kss_base.json -m kss_base
+
 
 ## Inference Example
 See [inference.ipynb](inference.ipynb)
